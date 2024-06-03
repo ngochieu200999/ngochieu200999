@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|c:\\users\\dell\\source\\repos\\simpleseleniumtest\\apitesting\\model\\createuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\model\\createuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|c:\\users\\dell\\source\\repos\\simpleseleniumtest\\apitesting\\model\\getusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\model\\getusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|c:\\users\\dell\\source\\repos\\simpleseleniumtest\\apitesting\\model\\createuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\model\\createuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|c:\\users\\dell\\source\\repos\\simpleseleniumtest\\apitesting\\test\\userapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\test\\userapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|c:\\users\\dell\\source\\repos\\simpleseleniumtest\\apitesting\\testhost.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\testhost.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|c:\\users\\dell\\source\\repos\\simpleseleniumtest\\apitesting\\apitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48464CA0-5527-407B-AB44-F062AA1C4F5C}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\apitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22666074-7AA3-460C-8FDB-B0259D1C7BF7}|SimpleSeleniumTest\\SimpleSeleniumTest.csproj|c:\\users\\dell\\source\\repos\\simpleseleniumtest\\simpleseleniumtest\\test\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22666074-7AA3-460C-8FDB-B0259D1C7BF7}|SimpleSeleniumTest\\SimpleSeleniumTest.csproj|solutionrelative:simpleseleniumtest\\test\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01894DC2-9242-4888-82BE-E5AA03D62B13}|WebDriverHelper\\WebDriverHelper.csproj|c:\\users\\dell\\source\\repos\\simpleseleniumtest\\webdriverhelper\\helper\\browserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01894DC2-9242-4888-82BE-E5AA03D62B13}|WebDriverHelper\\WebDriverHelper.csproj|solutionrelative:webdriverhelper\\helper\\browserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 39,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUserResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\Model\\CreateUserResponseModel.cs",
+              "RelativeDocumentMoniker": "APITesting\\Model\\CreateUserResponseModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\Model\\CreateUserResponseModel.cs",
+              "RelativeToolTip": "APITesting\\Model\\CreateUserResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:10:43.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\Model\\CreateUserRequestModel.cs",
+              "RelativeDocumentMoniker": "APITesting\\Model\\CreateUserRequestModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\Model\\CreateUserRequestModel.cs",
+              "RelativeToolTip": "APITesting\\Model\\CreateUserRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:03:45.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\Model\\GetUserModel.cs",
+              "RelativeDocumentMoniker": "APITesting\\Model\\GetUserModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\Model\\GetUserModel.cs",
+              "RelativeToolTip": "APITesting\\Model\\GetUserModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:31:04.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAPITest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\Test\\UserAPITest.cs",
+              "RelativeDocumentMoniker": "APITesting\\Test\\UserAPITest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\Test\\UserAPITest.cs",
+              "RelativeToolTip": "APITesting\\Test\\UserAPITest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:00:08.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testhost.dll.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\testhost.dll.config",
+              "RelativeDocumentMoniker": "APITesting\\testhost.dll.config",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\testhost.dll.config",
+              "RelativeToolTip": "APITesting\\testhost.dll.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-31T02:57:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APITesting",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\APITesting.csproj",
+              "RelativeDocumentMoniker": "APITesting\\APITesting.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\APITesting\\APITesting.csproj",
+              "RelativeToolTip": "APITesting\\APITesting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T02:57:20.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\SimpleSeleniumTest\\Test\\BaseTest.cs",
+              "RelativeDocumentMoniker": "SimpleSeleniumTest\\Test\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\SimpleSeleniumTest\\Test\\BaseTest.cs",
+              "RelativeToolTip": "SimpleSeleniumTest\\Test\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:55:21.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrowserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\WebDriverHelper\\Helper\\BrowserHelper.cs",
+              "RelativeDocumentMoniker": "WebDriverHelper\\Helper\\BrowserHelper.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SimpleSeleniumTest\\WebDriverHelper\\Helper\\BrowserHelper.cs",
+              "RelativeToolTip": "WebDriverHelper\\Helper\\BrowserHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:38:47.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
